@@ -42,7 +42,7 @@ gem 'omniauth-cas', '~> 2.0'
 gem 'omniauth-saml', '~> 1.10'
 gem 'omniauth_openid_connect', '~> 0.6.0'
 gem 'omniauth', '~> 1.9'
-gem 'omniauth-rails_csrf_protection', '~> 0.1'
+gem 'omniauth-rails_csrf_protection', '~> 1.0'
 
 gem 'color_diff', '~> 0.1'
 gem 'discard', '~> 1.2'
